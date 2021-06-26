@@ -1,0 +1,12 @@
+{
+  "name": "Fan",
+  "displayName": "Fan",
+  "expo": {
+    "name": "Fan",
+    "slug": "Fan",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
